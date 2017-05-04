@@ -1,0 +1,8 @@
+﻿  Rect.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\proyecto_rectangulo_lab\proyecto_rectangulo_lab\rect.cpp(1): warning C4603: '_WIN32_WINNT': macro is not defined or definition is different after precompiled header use
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\proyecto_rectangulo_lab\proyecto_rectangulo_lab\rect.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\proyecto_rectangulo_lab\proyecto_rectangulo_lab\rect.cpp(3): note: use of precompiled header
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\proyecto_rectangulo_lab\proyecto_rectangulo_lab\rect.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\proyecto_rectangulo_lab\proyecto_rectangulo_lab\rect.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Proyecto_Rectangulo_Lab.vcxproj -> C:\Users\ednac\onedrive\documents\visual studio 2015\Projects\Proyecto_Rectangulo_Lab\Debug\Proyecto_Rectangulo_Lab.exe
+  Proyecto_Rectangulo_Lab.vcxproj -> C:\Users\ednac\onedrive\documents\visual studio 2015\Projects\Proyecto_Rectangulo_Lab\Debug\Proyecto_Rectangulo_Lab.pdb (Full PDB)

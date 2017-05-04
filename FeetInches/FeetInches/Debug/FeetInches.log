@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(9): error C2065: 'FeetInches': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(9): error C2146: syntax error: missing ';' before identifier 'one'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(9): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(9): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(9): error C2065: 'three': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(13): error C2065: 'cin': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(13): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(16): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(17): error C2065: 'cin': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(17): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(20): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(20): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(21): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(24): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(24): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(25): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(25): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(25): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(25): error C2065: 'endl': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(28): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(28): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(29): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(29): error C2065: 'one': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(29): error C2065: 'two': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\main.cpp(29): error C2065: 'endl': undeclared identifier
+  FeetInches.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\feetinches\feetinches\feetinches.cpp(194): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

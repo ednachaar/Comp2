@@ -1,0 +1,46 @@
+﻿  Pag_861_instructor.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(13): error C3646: 'lastName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(14): error C3646: 'firstName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(15): error C3646: 'officeNumber': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(18): error C2061: syntax error: identifier 'string'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(18): error C2535: 'Instructor::Instructor(void)': member function already defined or declared
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(17): note: see declaration of 'Instructor::Instructor'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(19): error C2061: syntax error: identifier 'string'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\pag_861_instructor.cpp(14): error C2661: 'Instructor::Instructor': no overloaded function takes 3 arguments
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\pag_861_instructor.cpp(20): error C2556: 'int main(void)': overloaded function differs only by return type from 'int main(void)'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\pag_861_instructor.cpp(12): note: see declaration of 'main'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\pag_861_instructor.cpp(20): error C2084: function 'int main(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\pag_861_instructor.cpp(12): note: see previous definition of 'main'
+  Instructor.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(13): error C3646: 'lastName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(14): error C3646: 'firstName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(15): error C3646: 'officeNumber': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(18): error C2061: syntax error: identifier 'string'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(18): error C2535: 'Instructor::Instructor(void)': member function already defined or declared
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(17): note: see declaration of 'Instructor::Instructor'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.h(19): error C2061: syntax error: identifier 'string'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(12): error C2660: 'Instructor::set': function does not take 3 arguments
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(14): error C2065: 'string': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(14): error C2146: syntax error: missing ')' before identifier 'lname'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(15): error C2143: syntax error: missing ';' before '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(15): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(19): error C2065: 'string': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(19): error C2146: syntax error: missing ')' before identifier 'lname'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(20): error C2143: syntax error: missing ';' before '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(20): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(27): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(27): error C2065: 'lastName': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(27): error C2065: 'endl': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(28): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(28): error C2065: 'firstName': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(28): error C2065: 'endl': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(29): error C2065: 'cout': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(29): error C2065: 'officeNumber': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_861_instructor\pag_861_instructor\instructor.cpp(29): error C2065: 'endl': undeclared identifier
+  Generating Code...

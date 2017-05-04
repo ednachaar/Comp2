@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Circle_Class_Page800_73.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+c:\users\ednac\onedrive\documents\visual studio 2015\Projects\Circle_Class_Page800_73\Debug\Circle_Class_Page800_73.exe : fatal error LNK1120: 1 unresolved externals

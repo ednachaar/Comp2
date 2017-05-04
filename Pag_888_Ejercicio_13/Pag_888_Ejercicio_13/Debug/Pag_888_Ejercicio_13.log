@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  RoomDimension.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2059: syntax error: '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(7): error C2236: unexpected token 'class'. Did you forget a ';'?
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(9): error C2143: syntax error: missing ';' before '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(9): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(5): error C2653: 'RoomDimension': is not a class or namespace name
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(7): warning C4508: 'RoomDimension': function should return a value; 'void' return type assumed
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(10): error C2653: 'RoomDimension': is not a class or namespace name
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(11): error C2084: function 'int RoomDimension(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.cpp(5): note: see previous definition of 'RoomDimension'
+  RoomCarpet.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2059: syntax error: '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(7): error C2236: unexpected token 'class'. Did you forget a ';'?
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(9): error C2143: syntax error: missing ';' before '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomdimension.h(9): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(12): error C3646: 'rDimension': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(17): error C2061: syntax error: identifier 'RoomDimension'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(21): error C2146: syntax error: missing ';' before identifier 'rDimension'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(21): error C2065: 'rDimension': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(21): error C2065: 'rm': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(27): error C2065: 'rDimension': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(27): error C2228: left of '.getArea' must have class/struct/union
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(27): note: type is 'unknown-type'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.cpp(6): error C2084: function 'RoomCarpet::RoomCarpet(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.h(17): note: see previous definition of '{ctor}'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\roomcarpet.cpp(11): error C2600: 'RoomCarpet::~RoomCarpet': cannot define a compiler-generated special member function (must be declared in the class first)
+  Pag_888_Ejercicio_13.cpp
+  FeetInches.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2059: syntax error: '{'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(17): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.cpp(6): error C2533: 'FeetInches::{ctor}': constructors not allowed a return type
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.cpp(6): error C2511: 'FeetInches::FeetInches(void)': overloaded member function not found in 'FeetInches'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.h(8): note: see declaration of 'FeetInches'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pag_888_ejercicio_13\pag_888_ejercicio_13\feetinches.cpp(11): error C2600: 'FeetInches::~FeetInches': cannot define a compiler-generated special member function (must be declared in the class first)
+  Generating Code...

@@ -1,0 +1,18 @@
+﻿  Pagina_655_InventoryBins_Exam_1.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\inventorybins.h(26): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\inventorybins.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(24): error C2131: expression did not evaluate to a constant
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(24): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(24): note: see usage of 'objects'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(34): error C2228: left of '.setdesc' must have class/struct/union
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(34): note: type is 'bins [objects]'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(35): error C2228: left of '.setparts' must have class/struct/union
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(35): note: type is 'bins [objects]'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(41): error C2228: left of '.display' must have class/struct/union
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1.cpp(41): note: type is 'bins [objects]'
+  InventoryBins.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\inventorybins.h(26): error C2144: syntax error: 'void' should be preceded by ';'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_655_inventorybins_exam_1\pagina_655_inventorybins_exam_1\inventorybins.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
