@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  Truck.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\truck.cpp(6): error C2084: function 'Truck::Truck(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\truck.h(17): note: see previous definition of '{ctor}'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\truck.cpp(11): error C2600: 'Truck::~Truck': cannot define a compiler-generated special member function (must be declared in the class first)
+  Suv.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(5): error C2653: 'Suv': is not a class or namespace name
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(7): warning C4508: 'Suv': function should return a value; 'void' return type assumed
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(10): error C2653: 'Suv': is not a class or namespace name
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(11): error C2084: function 'int Suv(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\suv.cpp(5): note: see previous definition of 'Suv'
+  Pagina_912_cars.cpp
+  Car.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\car.cpp(6): error C2084: function 'Car::Car(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\car.h(17): note: see previous definition of '{ctor}'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\car.cpp(11): error C2600: 'Car::~Car': cannot define a compiler-generated special member function (must be declared in the class first)
+  Automobile.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\automobile.cpp(6): error C2084: function 'Automobile::Automobile(void)' already has a body
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\automobile.h(23): note: see previous definition of '{ctor}'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\pagina_912_cars\pagina_912_cars\automobile.cpp(11): error C2600: 'Automobile::~Automobile': cannot define a compiler-generated special member function (must be declared in the class first)
+  Generating Code...

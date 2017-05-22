@@ -1,0 +1,63 @@
+﻿  TwoDayPackage.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(17): error C2632: 'int' followed by 'double' is illegal
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'string': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'getRecipientName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C2059: syntax error: '('
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2143: syntax error: missing ')' before ';'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2059: syntax error: ')'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.cpp(6): error C2511: 'TwoDayPackage::TwoDayPackage(void)': overloaded member function not found in 'TwoDayPackage'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.h(9): note: see declaration of 'TwoDayPackage'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.cpp(16): error C2511: 'TwoDayPackage::~TwoDayPackage(const std::string &,const std::string &,const std::string &,const std::string &,int,const std::string &,const std::string &,const std::string &,const std::string &,int,double,double,double)': overloaded member function not found in 'TwoDayPackage'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.h(9): note: see declaration of 'TwoDayPackage'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.cpp(18): error C2550: 'TwoDayPackage::{dtor}': constructor initializer lists are only allowed on constructor definitions
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.cpp(19): error C2352: 'TwoDayPackage::setFlatFee': illegal call of non-static member function
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\twodaypackage.h(18): note: see declaration of 'TwoDayPackage::setFlatFee'
+  Package.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(17): error C2632: 'int' followed by 'double' is illegal
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'string': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'getRecipientName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C2059: syntax error: '('
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2143: syntax error: missing ')' before ';'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2059: syntax error: ')'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(8): error C2059: syntax error: '&'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(10): error C2511: 'Package::Package(const std::string &,const std::string &,const std::string &,const std::string &,int,const std::string &,const std::string &,const std::string)': overloaded member function not found in 'Package'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(13): note: see declaration of 'Package'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(14): error C2065: 'rCity': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(15): error C2065: 'rState': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(15): error C2065: 'rZIP': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(16): error C2550: 'Package::{ctor}': constructor initializer lists are only allowed on constructor definitions
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(18): error C2065: 'w': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(19): error C2065: 'cost': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(78): error C2556: 'void Package::setRecipientName(const std::string &)': overloaded function differs only by return type from 'int Package::setRecipientName(const std::string &)'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(32): note: see declaration of 'Package::setRecipientName'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(77): error C2371: 'Package::setRecipientName': redefinition; different basic types
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(32): note: see declaration of 'Package::setRecipientName'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(83): error C2039: 'getRecipientName': is not a member of 'Package'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(13): note: see declaration of 'Package'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(84): error C2270: 'getRecipientName': modifiers not allowed on nonmember functions
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(85): error C2065: 'recipientName': undeclared identifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.cpp(118): error C2065: 'RecipientState': undeclared identifier
+  OvernightPackage.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(17): error C2632: 'int' followed by 'double' is illegal
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'string': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C3646: 'getRecipientName': unknown override specifier
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(33): error C2059: syntax error: '('
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2143: syntax error: missing ')' before ';'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\package.h(34): error C2059: syntax error: ')'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.h(12): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.h(13): error C2143: syntax error: missing ',' before '&'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(11): error C2511: 'OvernightPackage::OvernightPackage(const std::string &,const std::string &,const std::string &,const std::string &,int,const std::string &,const std::string &,const std::string &,const std::string &,int,double,double,double)': overloaded member function not found in 'OvernightPackage'
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.h(8): note: see declaration of 'OvernightPackage'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(12): error C2352: 'OvernightPackage::setOvernightFeePerOunce': illegal call of non-static member function
+  c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.h(17): note: see declaration of 'OvernightPackage::setOvernightFeePerOunce'
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(32): error C2653: 'OvernighPackage': is not a class or namespace name
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(33): error C2270: 'calculateCost': modifiers not allowed on nonmember functions
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(34): error C3861: 'getWeight': identifier not found
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(34): error C3861: 'getCostPerOunce': identifier not found
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\overnightpackage.cpp(35): error C3861: 'getOvernightFeePerOunce': identifier not found
+  Deitel_Pag532_12.9.cpp
+c:\users\ednac\onedrive\documents\visual studio 2015\projects\deitel_pag532_12.9\deitel_pag532_12.9\deitel_pag532_12.9.cpp(83): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

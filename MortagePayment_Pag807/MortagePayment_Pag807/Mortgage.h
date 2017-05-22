@@ -1,2 +1,6 @@
-#include <iostream.h>
-#include <math.h>
+#include <iostream>
+
+using std::cout;
+using std::cin;
+
+#include <>
